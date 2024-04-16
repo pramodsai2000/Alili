@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # Alili
-=======
-# alili_nlp
 Virtual assistants course project : chatbot
 
 ##ALILI: Kids’ Interactive Storyteller
